@@ -1,6 +1,6 @@
 // Evita el comportamiento por defecto al hacer click. Por ejemplo, si hago click sobre un enlace, este no me llevará a otra página.
 
-const gifs = ["../assets/magic-1.gif", "../assets/magic-2.gif", "../assets/magic-3.gif", "../assets/magic-4.gif", "../assets/magic-5.gif", "../assets/magic-6.gif"]
+const gifs = ["./assets/magic-1.gif", "./assets/magic-2.gif", "./assets/magic-3.gif", "./assets/magic-4.gif", "./assets/magic-5.gif", "./assets/magic-6.gif"]
 
 const paleta = ["#444", "#000", "#fff", "#6780cd"]
 
